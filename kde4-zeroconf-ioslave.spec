@@ -13,6 +13,7 @@ Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version
 # Source0-md5:	2a824507ca6408277a9ea039ab15adfd
 URL:		http://www.kde.org/
 Obsoletes:	kde4-kdenetwork-kdnssd
+Obsoletes:	kde4-kdnssd
 BuildRequires:	kde4-kdelibs-devel >= %{version}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
