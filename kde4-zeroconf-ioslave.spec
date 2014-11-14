@@ -5,12 +5,12 @@
 
 Summary:	K Desktop Environment - Zeroconf IO Slave
 Name:		kde4-zeroconf-ioslave
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	34fa77ed87753514fe751ba0f5a3173b
+# Source0-md5:	6b84e025800a93ae5a386123af8a12f2
 URL:		http://www.kde.org/
 Obsoletes:	kde4-kdenetwork-kdnssd
 Obsoletes:	kde4-kdnssd
